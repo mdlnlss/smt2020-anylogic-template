@@ -24,7 +24,7 @@ The modular and parameterized structure of the template enables rapid adaptation
 
 To use the template, follow these steps:
 
-1. **Install AnyLogic** (compatible version required – see [AnyLogic.com](https://www.anylogic.com/) for installation instructions).
+1. **Install AnyLogic** (compatible version required – see [AnyLogic](https://www.anylogic.com/) for installation instructions).
 2. **Set up PostgreSQL**:
    - Install PostgreSQL locally or on a server.
    - Create the required schema and load data from the `/data` directory.
