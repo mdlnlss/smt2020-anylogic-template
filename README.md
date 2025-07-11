@@ -13,7 +13,7 @@ The modular and parameterized structure of the template enables rapid adaptation
 - **Modular Architecture**: Reusable and configurable components representing common manufacturing units such as lots, wafers, toolgroups, tools, and machine failures.
 - **Parameterization**: Easily adjust production rates, machine settings, and flows to match specific scenarios.
 - **Data Integration Layer**: Supports seamless batch or real-time data integration with production databases via PostgreSQL.
-- **Dynamic Initialization**: Initialization driven by `.xlsx` input files to configure toolgroups, lots, recipes, and more.
+- **Dynamic Initialization**: Initialization driven by database tables to configure toolgroups, lots, recipes, and more.
 - **Advanced Tool Management**:
   - Agent-based modeling of toolgroups and tools
   - Pre-batching logic at toolgroup level
