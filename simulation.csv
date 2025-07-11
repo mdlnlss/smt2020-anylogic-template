@@ -1,0 +1,2 @@
+DB HOST,DB NAME,DB USER,DB PASSWORD,EXPERIMENT
+localhost:5431,smt2020ds2,postgres,password,standard
