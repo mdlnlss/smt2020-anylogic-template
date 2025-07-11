@@ -30,7 +30,7 @@ To use the template, follow these steps:
    - Create the required schema and load data from the `/data` directory.
 3. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-org/smt-anylogic-template.git
+   git clone https://github.com/mdlnlss/smt-anylogic-template.git
 4. **Open the simulation model in AnyLogic** and configure database credentials and runtime settings in the simulation.csv as needed.
 
 ## Usage
